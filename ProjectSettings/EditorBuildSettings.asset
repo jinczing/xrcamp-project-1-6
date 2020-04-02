@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_GVR_Controller.unity
+    guid: b4c82c5414966664691272c799085740
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Editor.unity
+    guid: c3cd6ef7e0af4dc4bb6d8f29ae740d2f
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/StartingScenes/Hotspot Example_Gaze.unity
+    guid: 76f033583a6d93f4ba8bde174f0b4425
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Controller.unity
+    guid: e965b968d7e3c3d4995f3e70a8eb0770
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Gaze.unity
+    guid: 17a32e1d456c45e4a8e0247641907cbf
+  - enabled: 1
+    path: Assets/Scenes/align.unity
+    guid: bded3f11d9f0b294b9a0615f04ade186
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/VideoScenes/3D_Waterfront.unity
+    guid: 274063104ecb85740bface7c8858821e
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/VideoScenes/3D_HomeInterior.unity
+    guid: 12ee9111937de3946a096d15c1aef485
+  - enabled: 0
+    path: Assets/Interactive360/Scenes/VideoScenes/2D_Lookout.unity
+    guid: 9e16619be0ec23547a92517c7eb1545d
+  - enabled: 1
+    path: Assets/Scenes/living-room.unity
+    guid: 13c5eda0ed83109479cd205499c820e0
+  - enabled: 1
+    path: Assets/Scenes/open-light.unity
+    guid: 3f3288286c5b34443ae2051201f697ef
+  - enabled: 1
+    path: Assets/Scenes/open-refrig.unity
+    guid: cfcf37eae93ad90448f99062cefa6c38
+  - enabled: 1
+    path: Assets/Scenes/go-bathroom.unity
+    guid: 8c621188c28ae714688fb3a64e398a43
+  - enabled: 1
+    path: Assets/Scenes/auto-open-light.unity
+    guid: 0ab94b9b3eb6fc84bae4a267acdec935
+  - enabled: 1
+    path: Assets/Scenes/wash-face.unity
+    guid: 51250b6d46ec4fa45903df81b7f9cbe4
+  - enabled: 1
+    path: Assets/Scenes/go-bed.unity
+    guid: 7df2dfb86d7ac3544956797ae6a348c1
+  - enabled: 1
+    path: Assets/Scenes/yes-go-bed.unity
+    guid: 8b3e7605781a5cc45b96d80ba7c23e82
+  - enabled: 1
+    path: Assets/Scenes/not-go-bed.unity
+    guid: b7665d024bbe3b144a08e877cdd93397
+  m_configObjects: {}
