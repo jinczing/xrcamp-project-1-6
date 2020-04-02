@@ -6,7 +6,7 @@ google drive: https://drive.google.com/drive/u/1/folders/0AM_MGZQ4c0S1Uk9PVA
 # !!Note!!
 Due the the file size of 360 videos, 360 videos are not pushed to this repo. \
 You can download 360 videos through this link: https://drive.google.com/open?id=1wiAZ3Xh2FyqDATMygtNRNHQWKG2vmRz9
-, and under the Scenes folder are scenes which require video placed into "Video Player" component as "Video Clip" of game object "Video". \
+, and under the Scenes folder are scenes which require video placed into "Video Player" component as "Video Clip" of game object "Video".
 ### Mapping of videos and scenes are as following:
 auto-open-light : 3-2.mp4 \
 go-bathroom : 5.mp4 \
